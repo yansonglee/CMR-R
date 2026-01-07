@@ -4,7 +4,7 @@
 
 **CMR-R** (Cardiac Magnetic Resonance - Reasoning) is a specialized Large Reasoning Model (LRM) designed to provide an **Explicit Chain of Diagnosis (CoD)** for cardiovascular diseases.
 
-Unlike traditional "black-box" AI models, CMR-R not only outputs a diagnosis but also generates a transparent reasoning pathway derived from CMR semantic features and functional parameters. It achieves diagnostic accuracy surpassing experienced radiologists (>10 years of experience) and leading general LLMs (e.g., GPT-5, DeepSeek-V3).
+Unlike traditional "black-box" AI models, CMR-R not only outputs a diagnosis but also generates a transparent reasoning pathway derived from CMR semantic features and functional parameters. It achieves diagnostic accuracy surpassing experienced radiologists (>10 years of experience) and leading general LLMs (e.g., GPT-5, DeepSeek-V3.2).
 
 ---
 
