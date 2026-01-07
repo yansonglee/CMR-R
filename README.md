@@ -1,4 +1,4 @@
-# CMR-R: Explicit Chain of Diagnosis for CMR Semantic Interpretation via Large Reasoning Model 🫀🧠
+# CMR-R: Explicit Chain of Diagnosis for CMR Semantic Interpretation via Large Reasoning Model 🧠
 
 
 
